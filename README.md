@@ -1,10 +1,10 @@
-# LappySID - System Identification Reset Tool
+# LappySID - Windsurf AI reset tool
 
 ## Overview
 
-LappySID is a powerful Windows tool that allows you to modify system identification information, including user SID, profile paths, and computer name. It's particularly useful for resetting trial periods for various applications, including Windsurf software.
+LappySID is a powerful Windows tool that allows you to reset trial windsurf by modify system identification information, including user SID, profile paths, and computer name. It's particularly useful for resetting trial periods for various applications, including Windsurf software.
 
-![LappySID Screenshot](https://via.placeholder.com/800x450.png?text=LappySID+Screenshot)
+![LappySID Screenshot]
 
 ## Features
 
