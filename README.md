@@ -1,4 +1,4 @@
-# LappySID - Windsurf AI reset tool
+# Windsurf free trial reset
 
 ## Overview
 
