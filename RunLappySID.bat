@@ -1,0 +1,3 @@
+@echo off
+echo Launching LappySID with administrator privileges...
+powershell -Command "Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File \"%~dp0LappySID.ps1\"' -Verb RunAs"
